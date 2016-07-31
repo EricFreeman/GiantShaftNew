@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+}
+
+#logo {
+    margin: auto;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#player {
+    display: none;
+}
